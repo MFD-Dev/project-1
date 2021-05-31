@@ -128,19 +128,7 @@
 
 /*  Media */
 @media only screen and (max-width: 768px) {
-    /* For mobile phones: */
-    /* [class*="col-"] {
-        width: 100%;
-    } */
-    /* body {
-        background-color: yellow;
-    } */
-    /* body {
-        width: 100%;
-        margin: 0;
-        padding: 0;
-        justify-content: center;
-    } */
+
     .body a{
         font-size: 6px;
     }
